@@ -41,6 +41,6 @@ export const unlikePost = async (postId) => {
   } catch (error) {
     console.error('Error unliking the post:', error);
   }
-};
 
+};
 
